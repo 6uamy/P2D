@@ -1,0 +1,136 @@
+* {
+    font-family: Helvetica,Arial,sans-serif;
+    background-color: #12253F;
+    color: whitesmoke;
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+}
+head{
+    padding: 30px;
+}
+
+body {
+    padding-left: 15px;
+    font-size: .875rem;
+    line-height: 1.5;
+    color: whitesmoke;
+    
+}
+
+.wrapper {
+    background-color: #12253F!important;
+}
+
+
+table {
+    width: 250px;
+    height: 150px;
+    border-collapse: collapse;
+}
+
+
+
+.tx-table td, .tx-table th {
+    /* border-top: solid #ccd0da; */
+    white-space: nowrap;
+}
+
+.tx-table .thead-light th {
+    color: ghostwhite;
+    background-color: #12253F;
+}
+
+
+.P2D-table .token-info th {
+    color: ghostwhite;
+    background-color: rgb(32, 52, 80);    
+    font-size: 20px;
+
+    border-radius: 10px;
+}
+
+.thead-light th,
+td {
+    text-align: center;
+    border-bottom: 1px solid teal;
+    padding: 20px;
+    font-size: small;
+}
+td.txn {
+    /* background-color: transparent; */
+    color: skyblue;
+    cursor: pointer;
+    text-overflow: ellipsis;
+}
+
+td.txn:hover {
+    color: turquoise;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+
+h1 {
+    padding-top: 10px;
+    width: 300px;
+    cursor: pointer;
+    color: rgb(37, 179, 189);
+    font-size: 40px;
+    }
+
+h2 {
+    padding-top: 50px;
+    padding-left: 10px;
+    float: left;
+    padding-right: 15px;
+    color: whitesmoke;
+    font-size: 22px;
+    /* background-color: #696969; */
+    }
+img {
+    cursor: pointer;
+    float: right;
+    /* padding-left: 20px; */
+    padding-top: 20px;
+}
+
+/* h5 {
+    font-size:18px;
+    color: blue;
+    text-shadow: #ccc 0 1px 0, #c9c9c9 0 2px 0, #bbb 0 3px 0, #b9b9b9 0 4px 0, #aaa 0 5px 0, rgba(0, 0, 0, .1) 0 6px 1px, rgba(0, 0, 0, .1) 0 0 5px, rgba(0, 0, 0, .3) 0 1px 3px, rgba(0, 0, 0, .15) 0 3px 5px, rgba(0, 0, 0, .2) 0 5px 10px, rgba(0, 0, 0, .2) 0 10px 10px, rgba(0, 0, 0, .1) 0 20px 20px;
+} */
+
+.above {
+    background-color: #12253F;
+}
+
+/* .main {
+    background-color: #676666;
+} */
+
+.search-bar {
+    text-align: left;
+    height: 130px;
+    padding-left: 10px;
+    padding-top: 50px;
+}
+
+.search-bar input {
+    background-image: url(https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-256.png);
+    background-position: 25px center;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    border: 1px solid skyblue;
+    border-radius: 50px;
+    padding: 2px 5px;
+    text-indent: 60px;
+    
+    width: 1000px;
+    height: 60px;
+    background-color: #12253F;
+    color: turquoise;
+}
