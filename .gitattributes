@@ -1,5 +1,2 @@
-* linguist-vendored
-*.cs linguist-vendored=false
-*.Solidity linguist-vendored=false
-*.html linguist-vendored=false
-*.css linguist-vendored=false
+*.cpp linguist-detectable=false
+*.c linguist-detectable=false
