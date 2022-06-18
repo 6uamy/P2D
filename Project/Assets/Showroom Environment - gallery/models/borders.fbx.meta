@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 2ea88eb520c0f3942a609304e8a8b621
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: borders
+    100004: borders.001
+    100006: borders.002
+    100008: borders.003
+    100010: borders.004
+    100012: borders.005
+    100014: borders.006
+    100016: borders.007
+    100018: borders.008
+    100020: borders.009
+    100022: borders.010
+    100024: borders.011
+    100026: borders.012
+    100028: borders.013
+    100030: borders.014
+    100032: borders.015
+    100034: borders.016
+    100036: borders.017
+    100038: borders.018
+    100040: borders.019
+    400000: //RootNode
+    400002: borders
+    400004: borders.001
+    400006: borders.002
+    400008: borders.003
+    400010: borders.004
+    400012: borders.005
+    400014: borders.006
+    400016: borders.007
+    400018: borders.008
+    400020: borders.009
+    400022: borders.010
+    400024: borders.011
+    400026: borders.012
+    400028: borders.013
+    400030: borders.014
+    400032: borders.015
+    400034: borders.016
+    400036: borders.017
+    400038: borders.018
+    400040: borders.019
+    2300000: borders
+    2300002: borders.001
+    2300004: borders.002
+    2300006: borders.003
+    2300008: borders.004
+    2300010: borders.005
+    2300012: borders.006
+    2300014: borders.007
+    2300016: borders.008
+    2300018: borders.009
+    2300020: borders.010
+    2300022: borders.011
+    2300024: borders.012
+    2300026: borders.013
+    2300028: borders.014
+    2300030: borders.015
+    2300032: borders.016
+    2300034: borders.017
+    2300036: borders.018
+    2300038: borders.019
+    3300000: borders
+    3300002: borders.001
+    3300004: borders.002
+    3300006: borders.003
+    3300008: borders.004
+    3300010: borders.005
+    3300012: borders.006
+    3300014: borders.007
+    3300016: borders.008
+    3300018: borders.009
+    3300020: borders.010
+    3300022: borders.011
+    3300024: borders.012
+    3300026: borders.013
+    3300028: borders.014
+    3300030: borders.015
+    3300032: borders.016
+    3300034: borders.017
+    3300036: borders.018
+    3300038: borders.019
+    4300000: borders.019
+    4300002: borders.018
+    4300004: borders.017
+    4300006: borders.016
+    4300008: borders.015
+    4300010: borders.014
+    4300012: borders.013
+    4300014: borders.011
+    4300016: borders.012
+    4300018: borders.010
+    4300020: borders.009
+    4300022: borders.008
+    4300024: borders.007
+    4300026: borders.006
+    4300028: borders.005
+    4300030: borders.004
+    4300032: borders.003
+    4300034: borders.002
+    4300036: borders.001
+    4300038: borders
+    6400000: borders
+    6400002: borders.001
+    6400004: borders.002
+    6400006: borders.003
+    6400008: borders.004
+    6400010: borders.005
+    6400012: borders.006
+    6400014: borders.007
+    6400016: borders.008
+    6400018: borders.009
+    6400020: borders.010
+    6400022: borders.011
+    6400024: borders.012
+    6400026: borders.013
+    6400028: borders.014
+    6400030: borders.015
+    6400032: borders.016
+    6400034: borders.017
+    6400036: borders.018
+    6400038: borders.019
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: ceaf428e859d8da40a28d8e110ec73cc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
