@@ -1,2 +1,2 @@
-* linguist-vendored
-*.C# linguist-vendored=false
+*.c++ linguist-detectable=false
+*.c linguist-detectable=false
