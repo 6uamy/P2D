@@ -1,3 +1,3 @@
 *.cpp linguist-detectable=false
 *.c linguist-detectable=false
-*.ASP.NET linguist-detectable=false
+*.ASP linguist-detectable=false
