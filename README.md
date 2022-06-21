@@ -37,6 +37,16 @@
 Web3.js와 JavaScript를 사용한 P2D 플랫폼 내의 donate transaction 현황을 조회 가능한 사이트를 구현하였다. Txn Hash를 클릭하여 클릭한 transaction의
 Details 조회가 가능하다.
 
+![intro](https://user-images.githubusercontent.com/79950091/174742132-39e9f7ef-7852-43b7-a0fc-236cad3ddc41.png)
+3.2 P2D main interface
+
+Main interface의 Start button을 통해 Metamask로그인을 통하여 게임에 접속가능하다.
+
+![main](https://user-images.githubusercontent.com/79950091/174742235-925d3a54-9cb5-4fe7-bebe-3d7c3da27dd4.png)
+3.3 P2D In-game interface
+
+Character 상단에 metamask 계정 주소와 좌측 상단의 보유한 토큰의 개수, 갤러리 형식의In-game을 통해  play를 진행한다.
+
 
 
 
