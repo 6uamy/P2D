@@ -31,6 +31,15 @@
 
 ## 3. 기능구현 <br>
 
+ ![site](https://user-images.githubusercontent.com/79950091/174741740-d33d138c-4c4f-4389-8e8e-9753b62a0197.png)
+3.1 P2D transaction monitoring
+
+Web3.js와 JavaScript를 사용한 P2D 플랫폼 내의 donate transaction 현황을 조회 가능한 사이트를 구현하였다. Txn Hash를 클릭하여 클릭한 transaction의
+Details 조회가 가능하다.
+
+
+
+
 
 ## 4. 차별성 <br>
 
