@@ -49,7 +49,7 @@ Character 상단에 metamask 계정 주소와 좌측 상단의 보유한 토큰�
 
 <image align="left" src = "https://user-images.githubusercontent.com/79950091/174742360-8a3ae3ad-b1bc-496b-ab00-64fbd0fb1ca2.png">
 <image align="right" src = "https://user-images.githubusercontent.com/79950091/174742372-28c8da76-ed51-4d1d-841d5a2055d1325b.png">
-![token2](https://user-images.githubusercontent.com/79950091/174742372-28c8da76-ed51-4d1d-841d-5a2055d1325b.png)
+
 3.4 P2D Token deploy
 
 SmartContract로 작성한 ERC-20의 토큰 minting과 
