@@ -48,11 +48,12 @@ Main interface의 Start button을 통해 Metamask로그인을 통하여 게임�
 Character 상단에 metamask 계정 주소와 좌측 상단의 보유한 토큰의 개수, 갤러리 형식의In-game을 통해  play를 진행한다.
 
 
-<p align="center">
+<p align="left">
   <img src="![token](https://user-images.githubusercontent.com/79950091/174743665-53d56f7c-1649-4e57-b06f-7ed9137f65f5.png)" alt="Sublime's custom image"/>
 </p>
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+<p align="right">
+  <img src="![token2](https://user-images.githubusercontent.com/79950091/174743765-f4771e89-be67-4e14-bad7-d17e9184f1cd.png)
+" alt="Sublime's custom image"/>
 </p>
 
 3.4 P2D Token deploy
