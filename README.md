@@ -47,9 +47,7 @@ Main interface의 Start button을 통해 Metamask로그인을 통하여 게임�
 
 Character 상단에 metamask 계정 주소와 좌측 상단의 보유한 토큰의 개수, 갤러리 형식의In-game을 통해  play를 진행한다.
 
-
-<img src="https://user-images.githubusercontent.com/79950091/174743665-53d56f7c-1649-4e57-b06f-7ed9137f65f5.png" width="410px" height="400px" align="left"/>
-<img src="https://user-images.githubusercontent.com/79950091/174743765-f4771e89-be67-4e14-bad7-d17e9184f1cd.png" width="410px" height="400px" align="right"/>      
+![tokendeploy](https://user-images.githubusercontent.com/79950091/174958389-61d212a9-f9c9-4a07-8ae4-71f59f2e68b1.png)
 3.4 P2D Token deploy
 
 SmartContract로 작성한 ERC-20의 토큰 minting과 
