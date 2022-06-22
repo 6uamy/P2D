@@ -45,13 +45,27 @@ Main interface의 Start button을 통해 Metamask로그인을 통하여 게임�
 ![main](https://user-images.githubusercontent.com/79950091/174742235-925d3a54-9cb5-4fe7-bebe-3d7c3da27dd4.png)
 3.3 P2D In-game interface
 
-Character 상단에 metamask 계정 주소와 좌측 상단의 보유한 토큰의 개수, 갤러리 형식의In-game을 통해  play를 진행한다.
+Character 상단에 metamask 계정 주소와 좌측 상단의 보유한 토큰의 개수, 갤러리 형식의In-game을 통해 Play를 진행한다.
 
 ![tokendeploy](https://user-images.githubusercontent.com/79950091/174958389-61d212a9-f9c9-4a07-8ae4-71f59f2e68b1.png)
 3.4 P2D Token deploy
 
 SmartContract로 작성한 ERC-20의 토큰 minting과 
 발급 후의transaction조회를 수행하는 동작이다.
+
+![tokendonate](https://user-images.githubusercontent.com/79950091/174958629-dd54eaff-75d7-470f-844b-299cf112b423.png)
+3.5 P2D Token Donate
+
+SmartContract로 작성한 ERC-20의 토큰의 Donate와 
+Donate 후의transaction조회를 수행하는 동작이다. 해당 Donation의 주소 정보를 Whitelist에 등록시켜    
+사용자가 다른 지갑 주소로 전송하지 못하도록 구현하였다.
+
+![NFT](https://user-images.githubusercontent.com/79950091/174958633-524ce647-fc71-4110-8947-f3dc7ba1092e.png)
+3.6 P2D NFT Deploy
+
+SmartContract로 작성한 ERC-721(NFT)의 발급과 발급된 NFT정보를
+Opensea(NFT거래소)에서 확인하는 동작이다.
+NFT 발급자는 isNFT = true로 등록시켜 기부자 당 1회만 NFT발급이 가능하도록 구현하였다.
 
 
 
