@@ -29,7 +29,7 @@
     
 
 
-## 3. 기능구현 <br>
+## 3. 🛠 기능구현 <br>
 
  ![site](https://user-images.githubusercontent.com/79950091/174741740-d33d138c-4c4f-4389-8e8e-9753b62a0197.png)
 3.1 P2D transaction monitoring
@@ -67,7 +67,7 @@ SmartContract로 작성한 ERC-721(NFT)의 발급과 발급된 NFT정보를
 Opensea(NFT거래소)에서 확인하는 동작이다.
 NFT 발급자는 isNFT = true로 등록시켜 기부자 당 1회만 NFT발급이 가능하도록 구현하였다.
 
-## 9. 결론 <br>
+## 4.🧩 결론 <br>
 Unity WebGL을 통해 빌드 되었기 때문에 MetaMask로 간단한 로그인이 가능하다. 
 이후 간단한 일회성 게임을 플레이하면 그 스코어에 비례해 자체 개발한 P2D 토큰을 발급 받을 수 있다. 
 해당 토큰은 스마트 컨트랙트에 등록된 화이트 리스트 조건에 따라 지정된 주소로만 전송이 가능하다. 
