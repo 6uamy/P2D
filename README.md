@@ -25,7 +25,7 @@
 ## 2. 💻 Language&Tools&API <br>
 * Remix IDE (Solidity)  
 * Unity (C#)  
-* Eth Scan API (Web3Js, JavaScript)  
+* Eth Scan API (Web3.js, html, JavaScript)  
 
     
 
