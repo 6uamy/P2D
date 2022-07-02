@@ -52,13 +52,13 @@ Character 상단에 metamask 계정 주소와 좌측 상단의 보유한 토큰�
 3.4 P2D Token deploy
 
 SmartContract로 작성한 ERC-20의 토큰 minting과 
-발급 후의transaction조회를 수행하는 동작이다.
+발급 후의 transaction조회를 수행하는 동작이다.
 
 ![tokendonate](https://user-images.githubusercontent.com/79950091/174958629-dd54eaff-75d7-470f-844b-299cf112b423.png)
 3.5 P2D Token Donate
 
-SmartContract로 작성한 ERC-20의 토큰의 Donate와 
-Donate 후의transaction조회를 수행하는 동작이다. 해당 Donation의 주소 정보를 Whitelist에 등록시켜    
+SmartContract로 작성한 ERC-20 기반 토큰의 Donate와 
+Donate 후의transaction 조회를 수행하는 동작이다. 해당 Donation의 주소 정보를 Whitelist에 등록시켜    
 사용자가 다른 지갑 주소로 전송하지 못하도록 구현하였다.
 
 ![NFT](https://user-images.githubusercontent.com/79950091/174958633-524ce647-fc71-4110-8947-f3dc7ba1092e.png)
