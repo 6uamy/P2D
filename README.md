@@ -1,3 +1,4 @@
+#🏆 공과대 전체 캡스톤 디자인 부문 최우수상 수상 🏆
 ## P2D (Play to Donate)<br>
 **Senior Project 블록체인 기반 실시간 기부 플랫폼**
 ## 시연 영상 https://youtu.be/V75_MES1wCI<br>
