@@ -82,5 +82,5 @@ Unity WebGL을 통해 빌드 되었기 때문에 MetaMask로 간단한 로그인
 모든 기부 과정을 직접적으로 확인 가능한 트랜잭션 모니터링 사이트 역시 개발하였다. 
 기부에 있어 큰 문제로 손꼽히고 있는 “경제적 여유”, “기부 단체에 대한 신뢰성”, “기부 과정의 투명성”을 해결할 수 있을것으로 기대된다.
 
-<p><img src='https://user-images.githubusercontent.com/79950091/185311786-554ba1d8-dc56-4468-b805-b7686421f7eb.jpg' width='250' height='500'></p>
+<p><img src='https://user-images.githubusercontent.com/79950091/185311786-554ba1d8-dc56-4468-b805-b7686421f7eb.jpg' width='500' height='800' align='center'></p>
 
